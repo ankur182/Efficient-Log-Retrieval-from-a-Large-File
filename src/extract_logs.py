@@ -1,5 +1,5 @@
-import sys
 import os
+import sys
 
 def get_logs(log_file, date, size=1024 * 1024):
     output_folder = "output"
