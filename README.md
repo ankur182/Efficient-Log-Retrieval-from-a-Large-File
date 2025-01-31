@@ -54,7 +54,7 @@ Ensure the log file (test_logs.log) is in the same directory.
 Update search_date in log_filter.py with the required date.
 
 Run the script:
-
+`sh 
 python3 log_filter.py
 
 The filtered logs will be saved in filtered_logs.txt.
